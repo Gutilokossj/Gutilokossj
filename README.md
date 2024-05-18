@@ -19,4 +19,4 @@
    <img aling=center alt="HTML5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </div>
 
- <br> Meu objetivo é crescer profissionalmente e na tecnologia como um todo, para ajudar quem eu puder!
+ <br> My goal is to grow with technologies to help others
