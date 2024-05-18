@@ -1,9 +1,9 @@
 # Hello there! Did you get the reference? 😁
-- Teste 1
-- Teste 2
-- Teste 3
-- 
-
+- My name is Gustavo Fernandes, I'm 23 years old and I'm a full technical support analyst, level 3.
+- Recent ADS graduate (Analysis and systems development)
+- I'm learning to program in Java
+- Beginner in HTML, CSS and Javascript
+  
 <!--
 **Gutilokossj/Gutilokossj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
