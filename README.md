@@ -1,7 +1,7 @@
 ### Hello there! Did you get the reference? 😁🚀
 - My name is Gustavo Fernandes, I'm 23 years old and I'm a full technical support analyst, level 3.
 - Recent ADS graduate (Analysis and systems development)
-- I'm learning to program in Java
+- I'm learning to program in Java and Cypress
 - Beginner in HTML, CSS and Javascript
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gutilokossj12/?theme=dark)
