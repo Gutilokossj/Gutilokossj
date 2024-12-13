@@ -1,5 +1,5 @@
 ### Hello there! Did you get the reference? 😁🚀
-- My name is Gustavo Fernandes, I'm 23 years old and I'm a full technical support analyst, level 3.
+- My name is Gustavo Fernandes, I'm 24 years old and I'm a systems analyst/QA
 - Recent ADS graduate (Analysis and systems development)
 - I'm learning to program in Java and Cypress
 - Beginner in HTML, CSS and Javascript
